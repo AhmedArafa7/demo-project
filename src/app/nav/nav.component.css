@@ -1,0 +1,13 @@
+.bg-nav{
+    background-color: #2c3e50;
+    color: white;
+}
+.nav-title{
+    font-size: calc(1.325rem + .9vw)
+}
+.bg-main{
+    background-color: #1abc9c;
+}
+a{
+    color: white;
+}
